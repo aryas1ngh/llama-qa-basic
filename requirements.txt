@@ -1,0 +1,7 @@
+accelerate==0.21.0 transformers==4.31.0 tokenizers==0.13.3
+bitsandbytes==0.40.0 einops==0.6.1
+xformers==0.0.22.post7
+langchain==0.1.4
+faiss-gpu==1.7.1.post3
+sentence_transformers
+torch==2.1.0
