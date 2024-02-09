@@ -3,7 +3,7 @@ A LLaMa Q&amp;A chatbot trained on a novel text.
 
 ## Files
 - ```data/``` contains the novel text data in a ```.txt``` file.
-- ```llama_novel_basic.ipynb``` contains the implementation of a chatbot made by fine-tuning the pretrained Meta LLaMa 7B Chat Huggingface LLM.
+- ```llama_novel_text.ipynb``` contains the implementation of a chatbot made by fine-tuning the pretrained Meta LLaMa 7B Chat Huggingface LLM.
 - ```requirements.txt``` contains all the required python dependencies to be installed.
 
 ## Model Link
