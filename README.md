@@ -14,5 +14,5 @@ Requires authentication from both Meta and Huggingface.
 
 ### Note:
 Jupyter Notebook rendering can be improper on GitHub. ([issue thread](https://github.com/jupyter/notebook/issues/5323))\
-Recommended to use [nbviewer](https://nbviewer.org).
+Recommended to use [nbviewer](https://nbviewer.org).\
 nbviewer link to [llama_novel_text.ipynb](https://nbviewer.org/github/aryas1ngh/llama-qa-basic/blob/main/llama_novel_text.ipynb)
